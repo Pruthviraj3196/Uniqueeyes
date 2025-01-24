@@ -14,6 +14,7 @@ export default defineConfig({
         secure: false,
       },
     },
+      allowedHosts: ['uniqueeyes-1.onrender.com'],
   },
   plugins: [react()],
 });
