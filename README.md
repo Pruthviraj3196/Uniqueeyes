@@ -2,7 +2,7 @@
 This project is a full-stack application built using the MERN stack (MongoDB, Express, React, and Node.js). The application is designed to allow admin users to add, manage, and delete products while dynamically displaying them on the frontend. Customers can view products, add them to a cart (referred to as "Pick" in the app), and see a summary of their selected items.
 
 ## Hosted Links - https://uniqueeyes-1.onrender.com
-## for Admin panel use /admin 
+## For Admin panel use - [/admin] Route after the main link
 ## Admin Panel - https://uniqueeyes-1.onrender.com/admin
 ## Features 🚀
 ## Admin Panel:
