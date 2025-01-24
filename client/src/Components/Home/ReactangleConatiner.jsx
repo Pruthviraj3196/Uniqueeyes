@@ -111,7 +111,7 @@ const RectangleContainer = ({ addToCart }) => {
                   addToCart(item);
                 }}
               >
-                Add to Cart
+                Pick
               </button>
             </div>
           </div>
